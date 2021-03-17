@@ -10,3 +10,6 @@ This is introduction of how to use git and github
 ## Deployment 
 
 Sample website with plenty of files for demos
+# Copyright
+Copyright 2016 Git Demo
+
