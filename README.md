@@ -9,6 +9,11 @@ This is introduction of how to use git and github
  
 ## Deployment 
 
+
+## How To Contribute
+
+Please fork this repository and then issue Pull Requests for review.
+
 Sample website with plenty of files for demos
 # Copyright
 Copyright 2016 Git Demo
